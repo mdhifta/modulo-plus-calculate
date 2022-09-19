@@ -1,4 +1,4 @@
-#Modulo Calculate
+# Modulo Calculate
 
 The modulo plus calculation (or maybe that's the name I gave it) is a calculation that is taken from the initial value which is Z.
 Suppose here I have a value of Z = 4, then to get the desired value we need to increase the value of 1, 2, 3 and 4 to the power of 1 to 4 also according to the existing Z value.
